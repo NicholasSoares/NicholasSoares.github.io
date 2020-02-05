@@ -1,148 +1,68 @@
-
-
-body{
-    background-color: black;
-    background: url("../images/now.jpg") no-repeat center center fixed; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+#about {
+    background-color: #8ea6b4;
 }
 
-.page-text-tcc, .page-text, .banner-text{
-    color: white;
-    text-align: center;
-    margin-top: 20px;
+.item-menu-size {
+    height: 60px;
 }
 
-.banner-text:hover{
-    color:lightblue;
+.navbar-light .navbar-nav .nav-link :hover , .anchor-active {
+    color: white!important;
+    background-color: #2c3e50!important;
 }
 
-.page-text-esp{
-    text-align: left;
+.navbar-light .navbar-nav .nav-link {
+    color: gray;
+    letter-spacing: 2px;
 }
 
-p.page-text{
-    text-align: left;
+p.card-text {
+    font-size: 1.1rem;
+    letter-spacing: 1.5px;
+    line-height: 1.8;
 }
 
-.carousel-item{
-    margin-top: 20px;
-    min-height: 500px;
-    background-color: rgba(	119, 119, 119, 0.8);
+#me-resume {
+    font-size: 1.25rem;
+    letter-spacing: 2px;
+    line-height: 1.8;
 }
 
-footer{
-    color: white;
+.card-title {
+    font-weight: 400!important;
+    padding-bottom: 12px;
 }
 
-hr{
-    border-color: white;
-}
-
-.card-img-size{
-    height: 250px;
-    width: 250px;
-    margin-top: 10px;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-@media only screen and (min-width: 1000px) {
-    .navbar-size{
-        margin-left: 2%; 
-        margin-right: 2%;
-        margin-top: 1%;
-    }
-    
-    .card-size{
-        margin-top: 20px;
-        margin-bottom: 20px;
-        width: 30%; 
-        margin-left: 1.65%; 
-        margin-right: 1.65%;
-    }
-    
-    .card-style{
-        text-align: center;
-        background-color: rgba(0, 0, 0, 0.3);
-        color: white;
-    }
-    
-    .navbar-brand-aling{
-        text-align: center;
-        margin-left: 0;
-        margin-right: 5%;
-        letter-spacing: 2px;
-        font-weight: bold;
+@media (min-width: 992px) {
+    .col-lg-card {
+        -ms-flex: 0 0 30%;
+        flex: 0 0 30%;
+        max-width: 30%;
     }
 }
 
-@media only screen and (min-width: 700px) and (max-width: 1000px){
-    .navbar-size{
-        margin-left: 2%; 
-        margin-right: 2%;
-        margin-top: 1%;
-    }
-    .card-size{
-        margin-top: 20px;
-        margin-bottom: 20px;
-        width: 48%; 
-        margin-left: 1%; 
-        margin-right: 1%;
-    }
-    
-    .card-style{
-        text-align: center;
-        background-color: rgba(0, 0, 0, 0.3);
-        color: white;
-    }
-    
-    .navbar-brand-aling{
-        text-align: center;
-        margin-left: 0;
-        margin-right: 5%;
-        letter-spacing: 2px;
-        font-weight: bold;
-    }
+.img-card, .img-me {
+    opacity: 0;
+    z-index: 1200;
+  }
+
+
+.navbar {
+    z-index: 1900!important;
 }
 
-@media only screen and (max-width: 600px) {
-    .navbar-size{
-        margin-left: auto; 
-        margin-right: auto;
-        margin-top: auto;
-    }
-    
-    .card-size{
-        margin-top: 10px;
-        margin-bottom: 10px;
-        width: 100%; 
-        margin-left: 1.65%; 
-        margin-right: 1.65%;
-    }
-    
-    .card-style{
-        text-align: center;
-        background-color: rgba(0, 0, 0, 0.3);
-        color: white;
-    }
-    
-    .navbar-brand-aling{
-        text-align: center;
-        margin-left: auto;
-        margin-right: auto;
-        letter-spacing: 2px;
-        font-weight: bold;
-    }
-    
-    .carousel-item,.carousel-inner{
-        height: 200px;
-    }
-    
-    p.page-text{
-    text-align: center;
+#linkedin, #email {
+    font-size: 8rem;
 }
 
+#linkedin-caption, #email-caption {
+    font-size: 1.4rem;
+}
+
+.contact-div {
+    max-width: 900px;
+}
+
+.services-div {
+    max-width: 1920px;
 }
