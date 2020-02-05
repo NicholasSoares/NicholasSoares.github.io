@@ -49,7 +49,7 @@
       		if (target.length) {
         		event.preventDefault();
         		$('html, body').animate({
-          		scrollTop: target.offset().top - 50
+          		scrollTop: target.position().top - (($( window ).width() < 992)? 290 : 60)
         		}, 1000, function() {
 
           		var $target = $(target);
