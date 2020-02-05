@@ -66,3 +66,32 @@ p.card-text {
 .services-div {
     max-width: 1920px;
 }
+
+
+@media (min-width: 992px) and (max-width: 1400px) {
+    .category-title {
+        font-size: 3rem;
+    }
+
+    #me-name {
+        font-size: 2.5rem;
+    }
+    
+    #me-title, #me-degree {
+        font-size: 2rem;
+    }
+}
+
+@media (max-width: 992px) {
+    .category-title {
+        font-size: 2.5rem;
+    }
+
+    .dev-title, #me-name {
+        font-size: 2rem;
+    }
+    
+    .dev-iten, #me-title, #me-degree {
+        font-size: 1.5rem;
+    }
+}
