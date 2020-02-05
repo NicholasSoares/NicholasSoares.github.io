@@ -33,7 +33,7 @@ p.card-text {
 
 #me-resume {
     font-size: 1.25rem;
-    letter-spacing: 2px;
+    letter-spacing: 3px;
     line-height: 1.8;
 }
 
@@ -53,6 +53,10 @@ p.card-text {
 .img-card, .img-me {
     opacity: 0;
     z-index: 1200;
+  }
+
+  .collapse {
+    z-index: 3200;
   }
 
 

@@ -28,4 +28,10 @@
         }
     });
 
+    $( ".nav-link" ).on( "click", function() {
+      if($('.collapsed').length == 0){
+        $('.navbar-collapse').collapse('hide');
+      }
+    });
+
   });
