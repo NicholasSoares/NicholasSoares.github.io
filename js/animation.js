@@ -4,7 +4,7 @@
       
     $('#services').viewportChecker({
         classToAdd: 'in-viewport',
-        offset: 150,
+        offset: 200,
         callbackFunction: function() {
         $('.img-card').addClass('animated fadeIn slower');
         }
@@ -12,7 +12,7 @@
 
     $('#about').viewportChecker({
         classToAdd: 'in-viewport',
-        offset: 150,
+        offset: 300,
         callbackFunction: function() {
           $('.img-me').addClass('animated fadeIn slower');
           $('#me-name').addClass('animated flipInX slower');
