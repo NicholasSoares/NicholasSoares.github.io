@@ -15,9 +15,16 @@
         offset: 300,
         callbackFunction: function() {
           $('.img-me').addClass('animated fadeIn slower');
-          $('#me-name').addClass('animated flipInX slower');
-          $('#me-tite, #me-degree').addClass('animated fadeInLeftBig slower');
         }
+    });
+
+    $('#me-name').viewportChecker({
+      classToAdd: 'in-viewport',
+      offset: 50,
+      callbackFunction: function() {
+        $('#me-name').addClass('animated flipInX slower');
+        $('#me-title, #me-degree').addClass('animated fadeInLeftBig slower');
+      }
     });
 
     $('#contact').viewportChecker({
