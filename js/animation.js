@@ -29,17 +29,21 @@
     });
 
     $( ".nav-link" ).on( "click", function() {
-      if($('.collapsed').length == 0){
-        $('.navbar-collapse').collapse('hide');
-      }
+        if($('.collapsed').length == 0){
+          $('.navbar-collapse').collapse('hide');
+        }
     });
     
     $('a[href*="#"]').click(function(event) {
-          event.preventDefault();
-          $('html, body').animate({
-            scrollTop: $(this.hash).position().top - (($( window ).width() < 992)? 290 : 60)
-          }, 1000);
-          return false;
-  		});
+        event.preventDefault();
+        $('html, body').animate({
+          scrollTop: $(this.hash).position().top - (($( window ).width() < 992)? 290 : 60)
+        }, 1000);
+        return false;
+      });
+      
+    $(".nav-link").mouseup(function(){
+        $(this).blur();
+    });
 
   });
