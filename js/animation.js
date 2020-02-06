@@ -39,6 +39,7 @@
           $('html, body').animate({
             scrollTop: $(this.hash).position().top - (($( window ).width() < 992)? 290 : 60)
           }, 1000);
+          return false;
   		});
 
   });
