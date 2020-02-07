@@ -22,7 +22,7 @@
       classToAdd: 'in-viewport',
       offset: 50,
       callbackFunction: function() {
-        $('#me-name').addClass('animated fadeInDown slower');
+        $('#me-name').addClass('animated fadeInUp slower');
         $('#me-title, #me-degree').addClass('animated fadeInLeftBig slower');
       }
     });
