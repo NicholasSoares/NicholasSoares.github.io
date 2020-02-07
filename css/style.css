@@ -60,8 +60,11 @@ p.card-text {
     }
 }
 
-.img-card, .img-me {
+.img-card, .img-me, #me-name, #me-title, #me-degree, #linkedin, #email {
     opacity: 0;
+  }
+
+.img-card, .img-me {
     z-index: 1200;
   }
 
