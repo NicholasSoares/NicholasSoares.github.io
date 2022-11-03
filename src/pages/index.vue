@@ -23,7 +23,7 @@ import profileImageURL from '@/assets/img/profile.jpg';
             <h1 class="mt-4 text-2xl text-center text-gray-700 dark:text-gray-100">
               Nicholas Teixeira Soares
             </h1>
-            <p class="text-center text-gray-700 dark:text-gray-100">
+            <p class="mt-2 text-center text-gray-700 dark:text-gray-100">
               Full Stack PHP Developer
             </p>
             <p class="mt-2 text-center text-gray-700 dark:text-gray-100">
