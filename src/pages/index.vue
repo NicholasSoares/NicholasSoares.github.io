@@ -193,13 +193,12 @@ import profileImageURL from '@/assets/img/profile.jpg';
                 <FontAwesomeIcon icon="location-dot" /> Florianopolis - SC, Brazil
               </p>
               <p class="pt-6">
-                Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                It has survived not only five centuries, but also the leap into electronic typesetting,
-                remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset
-                sheets containing Lorem Ipsum passages, and more recently with desktop publishing software
-                like Aldus PageMaker including versions of Lorem Ipsum.
+                I work as developer and manager, this being my front company to work on most of my contracts in the market.
+                <br>
+                I had developed landing pages for publicity campaigns,
+                management systems and ecommerce platforms for multiple companies and entities.
+                <br>
+                Most of the projects are hosted on AWS and Heroku, using various resources from both  according to its demands.
               </p>
               <p class="py-2">
                 Technologies Used: <span class="pl-1 text-sm text-gray-600 dark:text-gray-50">Laravel, NodeJs, Vue, React, React Native, Redis and MySql.</span>
