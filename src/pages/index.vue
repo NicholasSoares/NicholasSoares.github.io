@@ -68,13 +68,13 @@ import profileImageURL from '@/assets/img/profile.jpg';
                 <FontAwesomeIcon icon="location-dot" /> Bauru - SP, Brazil
               </p>
               <p class="pt-6">
-                Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                It has survived not only five centuries, but also the leap into electronic typesetting,
-                remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset
-                sheets containing Lorem Ipsum passages, and more recently with desktop publishing software
-                like Aldus PageMaker including versions of Lorem Ipsum.
+                I work in the development and technical leadership of the main product Meu Negócio, focused in simplify the management of small business,
+                and also with its other critical projects aimed at the financial market with high availability and demand.
+                <br>
+                Some of the clients are Natura, Avon, Febracis, Wiser, Ambev, Diamantes and thousands of small Brazilian entrepreneurs.
+                <br>
+                The projects are mainly built with Kubernetes, Gitlab is used as CD/CI and the infrastructure is entirely on AWS,
+                using services as SQS, EC2, S3 and much more.
               </p>
               <p class="pt-3">
                 Technologies Used: <span class="pl-1 text-sm text-gray-600 dark:text-gray-50">Laravel, Synfony, React Native, Vue, React, Redis and MySql.</span>
@@ -106,13 +106,14 @@ import profileImageURL from '@/assets/img/profile.jpg';
                 <FontAwesomeIcon icon="location-dot" /> Pelotas - RS, Brazil
               </p>
               <p class="pt-6">
-                Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                It has survived not only five centuries, but also the leap into electronic typesetting,
-                remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset
-                sheets containing Lorem Ipsum passages, and more recently with desktop publishing software
-                like Aldus PageMaker including versions of Lorem Ipsum.
+                I worked on the development and technical leadership of the main product Fatal Model.
+                <br>
+                I was responsible for the development of its plan subscription system, payment wallet,
+                credit recovery, high demand and availability user stories mechanism and
+                collection and management of critical user data in accordance with brazilian legislation (LGPD).
+                <br>
+                The projects were mainly built with docker, the infrastructure was mainly on AWS, using services as SQS, EC2, S3 and Lambda
+                and some on Digital Ocean as part of the legacy infrastructure.
               </p>
               <p class="pt-3">
                 Technologies Used: <span class="pl-1 text-sm text-gray-600 dark:text-gray-50">Laravel, Vue, Redis and MySql.</span>
@@ -135,13 +136,17 @@ import profileImageURL from '@/assets/img/profile.jpg';
                 <FontAwesomeIcon icon="location-dot" /> Rio Grande - RS, Brazil
               </p>
               <p class="pt-6">
-                Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                It has survived not only five centuries, but also the leap into electronic typesetting,
-                remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset
-                sheets containing Lorem Ipsum passages, and more recently with desktop publishing software
-                like Aldus PageMaker including versions of Lorem Ipsum.
+                I worked on the development and technical leadership of the main product Multimarcas.online, and some side projects.
+                <br>
+                I was responsible for the development of the core functionalities of the Multimarcas.online platform,
+                and its custom websites that were offered to customers that opt in for premium plans,
+                also developed microservices to get data about vehicles prices in the current market according to FIPE and
+                its mobile application for vehicles stock management on the lot.
+                <br>
+                Also worked on some side projects for the company as the management system for cargo dispatch and loan control for Reiter Log branches.
+                <br>
+                The projects were mainly built with docker, the infrastructure was mainly on Digital Ocean.
+                <br>
               </p>
               <p class="pt-3">
                 Technologies Used: <span class="pl-1 text-sm text-gray-600 dark:text-gray-50">Django, NodeJs, Flutter, Vue, React and MySql.</span>
@@ -164,13 +169,14 @@ import profileImageURL from '@/assets/img/profile.jpg';
                 <FontAwesomeIcon icon="location-dot" /> Rio Grande - RS, Brazil
               </p>
               <p class="pt-6">
-                Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                It has survived not only five centuries, but also the leap into electronic typesetting,
-                remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset
-                sheets containing Lorem Ipsum passages, and more recently with desktop publishing software
-                like Aldus PageMaker including versions of Lorem Ipsum.
+                I worked on the development in the pilot projet Compasso Labs,
+                that had the goal of exploring new technologies for the growing market of the era, mostly with Google Cloud.
+                <br>
+                I was responsible for the development of chatbots with dialogflow and winston,
+                with the goal of checking its viability fo the common demands of the time.
+                <br>
+                The projects were mainly built with docker and cloud tools provided,
+                the infrastructure was mainly on Google Cloud And IBM Cloud.
               </p>
               <p class="py-2">
                 Technologies Used: <span class="pl-1 text-sm text-gray-600 dark:text-gray-50">NodeJs, React Native, React and MySql.</span>
@@ -187,13 +193,12 @@ import profileImageURL from '@/assets/img/profile.jpg';
                 <FontAwesomeIcon icon="location-dot" /> Florianopolis - SC, Brazil
               </p>
               <p class="pt-6">
-                Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                It has survived not only five centuries, but also the leap into electronic typesetting,
-                remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset
-                sheets containing Lorem Ipsum passages, and more recently with desktop publishing software
-                like Aldus PageMaker including versions of Lorem Ipsum.
+                I work as developer and manager, this being my front company to work on most of my contracts in the market.
+                <br>
+                I had developed landing pages for publicity campaigns,
+                management systems and ecommerce platforms for multiple companies and entities.
+                <br>
+                Most of the projects are hosted on AWS and Heroku, using various resources from both  according to its demands.
               </p>
               <p class="py-2">
                 Technologies Used: <span class="pl-1 text-sm text-gray-600 dark:text-gray-50">Laravel, NodeJs, Vue, React, React Native, Redis and MySql.</span>
