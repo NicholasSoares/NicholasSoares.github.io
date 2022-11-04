@@ -109,8 +109,11 @@ import profileImageURL from '@/assets/img/profile.jpg';
                 I worked on the development and technical leadership of the main product Fatal Model.
                 <br>
                 I was responsible for the development of its plan subscription system, payment wallet,
-                credit recovery, high demand and availability user stories mechanism,
-                and collection and management of critical user data in accordance with brazilian legislation (LGPD).
+                credit recovery, high demand and availability user stories mechanism and
+                collection and management of critical user data in accordance with brazilian legislation (LGPD).
+                <br>
+                The projects are mainly built with docker, the infrastructure is mainly on AWS, using services as SQS, EC2, S3 and Lambda
+                and some on Digital Ocean as part of the legacy infrastructure.
               </p>
               <p class="pt-3">
                 Technologies Used: <span class="pl-1 text-sm text-gray-600 dark:text-gray-50">Laravel, Vue, Redis and MySql.</span>
