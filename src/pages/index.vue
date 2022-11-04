@@ -68,13 +68,13 @@ import profileImageURL from '@/assets/img/profile.jpg';
                 <FontAwesomeIcon icon="location-dot" /> Bauru - SP, Brazil
               </p>
               <p class="pt-6">
-                Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                It has survived not only five centuries, but also the leap into electronic typesetting,
-                remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset
-                sheets containing Lorem Ipsum passages, and more recently with desktop publishing software
-                like Aldus PageMaker including versions of Lorem Ipsum.
+                I work in the development and technical leadership of the main product Meu Negócio, focused in simplify the management of small business,
+                and also with its other critical projects aimed at the financial market with high availability and demand.
+                <br>
+                Some of the clients are Natura, Avon, Febracis, Wiser, Ambev, Diamantes and thousands of small Brazilian entrepreneurs.
+                <br>
+                The projects are mainly built with Kubernetes, Gitlab is used as CD/CI and the infrastructure is entirely on AWS,
+                using services as SQS, EC2, S3 and much more.
               </p>
               <p class="pt-3">
                 Technologies Used: <span class="pl-1 text-sm text-gray-600 dark:text-gray-50">Laravel, Synfony, React Native, Vue, React, Redis and MySql.</span>
