@@ -61,8 +61,8 @@ import profileImageURL from '@/assets/img/profile.jpg';
               <h1 class="mt-8 text-xl text-left text-gray-800 dark:text-gray-200">
                 Tech Lead <span class="pl-1 text-sm text-gray-600 dark:text-gray-50">2021 - Present</span>
               </h1>
-              <p class="pl-2 text-lg">
-                Dicas Mei/MeiShop
+              <p class="pl-2 text-lg font-bold">
+                Dicas Mei
               </p>
               <p class="pl-2 text-sm text-gray-700 dark:text-gray-100">
                 <FontAwesomeIcon icon="location-dot" /> Bauru - SP, Brazil
@@ -99,7 +99,7 @@ import profileImageURL from '@/assets/img/profile.jpg';
               <h1 class="mt-8 text-xl text-left text-gray-800 dark:text-gray-200">
                 Software Architect <span class="pl-1 text-sm text-gray-600 dark:text-gray-50">2020 - 2021</span>
               </h1>
-              <p class="pl-2 text-lg">
+              <p class="pl-2 text-lg font-bold">
                 Atlas Technologies
               </p>
               <p class="pl-2 text-sm text-gray-700 dark:text-gray-100">
@@ -129,7 +129,7 @@ import profileImageURL from '@/assets/img/profile.jpg';
               <h1 class="mt-8 text-xl text-left text-gray-700 dark:text-gray-100">
                 Full Stack Developer <span class="pl-1 text-sm text-gray-600 dark:text-gray-50">2019 - 2020</span>
               </h1>
-              <p class="pl-2 text-lg">
+              <p class="pl-2 text-lg font-bold">
                 WeCast
               </p>
               <p class="pl-2 text-sm text-gray-700 dark:text-gray-100">
@@ -162,7 +162,7 @@ import profileImageURL from '@/assets/img/profile.jpg';
               <h1 class="mt-8 text-xl text-left text-gray-700 dark:text-gray-100">
                 Full Stack Developer <span class="pl-1 text-sm text-gray-600 dark:text-gray-50">2018 - 2018</span>
               </h1>
-              <p class="pl-2 text-lg">
+              <p class="pl-2 text-lg font-bold">
                 Compasso LTDA
               </p>
               <p class="pl-2 text-sm text-gray-700 dark:text-gray-100">
@@ -186,7 +186,7 @@ import profileImageURL from '@/assets/img/profile.jpg';
               <h1 class="mt-8 text-xl text-left text-gray-700 dark:text-gray-100">
                 Full Stack Developer <span class="pl-1 text-sm text-gray-600 dark:text-gray-50">2015 - Present</span>
               </h1>
-              <p class="pl-2 text-lg">
+              <p class="pl-2 text-lg font-bold">
                 Soares Technologies
               </p>
               <p class="pl-2 text-sm text-gray-700 dark:text-gray-100">
