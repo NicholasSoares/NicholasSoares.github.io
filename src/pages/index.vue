@@ -106,13 +106,11 @@ import profileImageURL from '@/assets/img/profile.jpg';
                 <FontAwesomeIcon icon="location-dot" /> Pelotas - RS, Brazil
               </p>
               <p class="pt-6">
-                Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                It has survived not only five centuries, but also the leap into electronic typesetting,
-                remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset
-                sheets containing Lorem Ipsum passages, and more recently with desktop publishing software
-                like Aldus PageMaker including versions of Lorem Ipsum.
+                I worked on the development and technical leadership of the main product Fatal Model.
+                <br>
+                I was responsible for the development of its plan subscription system, payment wallet,
+                credit recovery, high demand and availability user stories mechanism,
+                and collection and management of critical user data in accordance with brazilian legislation (LGPD).
               </p>
               <p class="pt-3">
                 Technologies Used: <span class="pl-1 text-sm text-gray-600 dark:text-gray-50">Laravel, Vue, Redis and MySql.</span>
