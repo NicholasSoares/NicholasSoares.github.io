@@ -71,7 +71,7 @@ import profileImageURL from '@/assets/img/profile.jpg';
                 I work in the development and technical leadership of the main product Meu Negócio, focused in simplify the management of small business,
                 and also with its other critical projects aimed at the financial market with high availability and demand.
                 <br>
-                Some of the clients are Natura, Avon, Febracis, Wiser, Ambev, Diamantes and thousands of small Brazilian entrepreneurs.
+                Some of the clients are Natura, Avon, Febracis, Wiser, Ambev, Diamantes and thousands of small brazilian entrepreneurs.
                 <br>
                 The projects are mainly built with Kubernetes, Gitlab is used as CD/CI and the infrastructure is entirely on AWS,
                 using services as SQS, EC2, S3 and much more.
