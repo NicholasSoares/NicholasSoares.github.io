@@ -34,10 +34,12 @@ import profileImageURL from '@/assets/img/profile.jpg';
                 <a
                   class="mr-1 text-blue-500"
                   href="https://www.linkedin.com/in/nicholas-teixeira-soares-b34095164/"
+                  aria-label="My Linkedin"
                 ><FontAwesomeIcon :icon="['fab', 'linkedin']" /></a>
                 <a
                   class="ml-1 text-black dark:text-white"
                   href="https://github.com/NicholasSoares"
+                  aria-label="My Github"
                 ><FontAwesomeIcon :icon="['fab', 'github']" /></a>
               </p>
             </aside>

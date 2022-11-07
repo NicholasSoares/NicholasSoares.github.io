@@ -12,6 +12,7 @@ onMounted(() => {
     <div class="container flex justify-end p-4 mx-auto">
       <button
         class="overflow-hidden p-2"
+        aria-label="Dark mode toggle button"
         @click="switchTheme()"
       >
         <transition
