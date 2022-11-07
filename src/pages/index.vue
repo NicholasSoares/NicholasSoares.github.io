@@ -75,7 +75,7 @@ import profileImageURL from '@/assets/img/profile.jpg';
                 <br>
                 Some of the clients are Natura, Avon, Febracis, Wiser, Ambev, Diamantes and thousands of small brazilian entrepreneurs.
                 <br>
-                The projects are mainly built with Kubernetes, Gitlab is used as CD/CI and the infrastructure is entirely on AWS,
+                The projects are mainly built with Kubernetes, Gitlab is used as CI/CD and the infrastructure is entirely on AWS,
                 using services as SQS, EC2, S3 and much more.
               </p>
               <p class="pt-3">
