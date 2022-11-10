@@ -1,6 +1,6 @@
 <script setup>
 import ThemeControl from '@/components/ThemeControl.vue';
-import profileImageURL from '@/assets/img/profile.jpg';
+import profileImageURL from '@/assets/img/profile.webp';
 
 </script>
 
@@ -16,6 +16,8 @@ import profileImageURL from '@/assets/img/profile.jpg';
                 <img
                   class="max-w-full h-auto align-middle rounded-full border-8 border-stone-300 border-solid shadow-lg"
                   :src="profileImageURL"
+                  width="640"
+                  height="640"
                   alt="Nicholas Teixeira Soares Profile Picture"
                 >
               </div>
