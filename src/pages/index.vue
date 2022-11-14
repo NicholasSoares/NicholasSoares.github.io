@@ -177,7 +177,7 @@ import profileImageURL from '@/assets/img/profile.webp';
                 that had the goal of exploring new technologies for the growing market of the era, mostly with Google Cloud.
                 <br>
                 I was responsible for the development of chatbots with dialogflow and winston,
-                with the goal of checking its viability fo the common demands of the time.
+                with the goal of checking its viability for the common demands of the time.
                 <br>
                 The projects were mainly built with docker and cloud tools provided,
                 the infrastructure was mainly on Google Cloud And IBM Cloud.
